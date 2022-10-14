@@ -41,7 +41,7 @@ function convertToBit(num: number, unit: string): number {
 }
 
 function FormatTime(secondsInput: number): string {
-  const days: number = Math.floor(secondsInput / 8400);
+  const days: number = Math.floor(secondsInput / 84600);
   const hours: number = Math.floor((secondsInput % 86400) / 3600);
   const minutes: number = Math.floor(((secondsInput % 86400) % 3600) / 60);
   const seconds: number = Math.floor(((secondsInput % 86400) % 3600) % 60);
