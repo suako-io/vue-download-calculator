@@ -1,4 +1,4 @@
-# Suako Download
+# Download Calculator
 
 Download time calculator built with [Vue](https://vuejs.org), [Vite](https://vitejs.dev), [Typescript](https://www.typescriptlang.org) and [Vuetify 3.0 Beta](https://next.vuetifyjs.com/en/).
 
